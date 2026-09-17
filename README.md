@@ -1,12 +1,12 @@
-# Sistema de Clientes
+# 👥 Sistema de Clientes
 
-Sistema de cadastro de clientes desenvolvido em Python com banco de dados SQLite, utilizando operações CRUD, validação de dados e testes automatizados.
+Sistema de cadastro e gerenciamento de clientes desenvolvido em **Python**, utilizando **SQLite**, operações **CRUD**, validação de dados e testes automatizados.
 
 ## 📌 Sobre o projeto
 
-Este projeto foi desenvolvido para praticar conceitos fundamentais de desenvolvimento de sistemas, incluindo programação em Python, banco de dados SQLite, operações SQL, organização de código e testes automatizados.
+Este projeto foi desenvolvido para praticar conceitos fundamentais de desenvolvimento de sistemas, incluindo programação em Python, banco de dados SQLite, operações SQL, organização de código, tratamento de erros e testes automatizados.
 
-O sistema permite cadastrar, consultar, atualizar e excluir clientes por meio de um menu interativo no terminal.
+O sistema permite **cadastrar, listar, atualizar e excluir clientes** por meio de um menu interativo no terminal.
 
 ## 🚀 Funcionalidades
 
@@ -25,17 +25,17 @@ O sistema permite cadastrar, consultar, atualizar e excluir clientes por meio de
 * Python
 * SQLite
 * SQL
-* Unittest
+* `unittest`
 * Git
 * GitHub
 
 ## 🧪 Testes automatizados
 
-O projeto possui testes utilizando `unittest`.
+O projeto possui testes automatizados desenvolvidos com **`unittest`**.
 
-Atualmente são **12 testes automatizados**, cobrindo validações e operações CRUD.
+Atualmente, o projeto possui **12 testes automatizados**, abrangendo validações e operações CRUD.
 
-Resultado:
+Resultado dos testes:
 
 ```text
 Ran 12 tests
@@ -65,9 +65,9 @@ novo_desafio/
 
 ## ▶️ Como executar
 
-No Windows, abra o PowerShell dentro da pasta do projeto e execute:
+No Windows, abra o **PowerShell** dentro da pasta do projeto e execute:
 
-```powershell
+```text
 py src\main.py
 ```
 
@@ -84,13 +84,13 @@ O sistema apresentará o menu:
 
 ## 🧪 Como executar os testes
 
-Para executar todos os 12 testes:
+Para executar os 12 testes automatizados:
 
-```powershell
+```text
 py -m unittest tests.test_main tests.test_crud
 ```
 
-O resultado esperado é:
+Resultado esperado:
 
 ```text
 Ran 12 tests
@@ -104,16 +104,24 @@ OK
 * Lógica de programação
 * Funções
 * Estruturas de repetição
-* `try/except`
+* Estruturas condicionais
+* Tratamento de exceções com `try/except`
 * Validação de dados
 * SQL
 * SQLite
-* CRUD
+* Operações CRUD
 * Testes automatizados
 * Organização de código
 * Git e GitHub
 
 ## 👩‍💻 Objetivo profissional
 
-Projeto desenvolvido como parte da minha jornada de aprendizado em Desenvolvimento de Sistemas, com foco em Python, SQL, banco de dados, testes e boas práticas de programação.
+Este projeto faz parte da minha jornada de aprendizado em **Análise e Desenvolvimento de Sistemas**, com foco no desenvolvimento de aplicações utilizando Python, banco de dados, SQL e testes automatizados.
 
+Através deste projeto, busquei colocar em prática conceitos de programação, organização de código, validação, tratamento de erros e testes.
+
+---
+
+**Josiani Oliveira**
+
+[GitHub — @Josiani1111](https://github.com/Josiani1111)
